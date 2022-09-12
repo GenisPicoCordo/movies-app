@@ -1,4 +1,4 @@
-This project is about how to fetch date and sent back.
+This project is about sending Http Requests nad connecting to a Database.
 
 ## Available Scripts
 
