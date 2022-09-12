@@ -1,4 +1,4 @@
-This project is about sending Http Requests nad connecting to a Database.
+This project is about sending Http Requests and connecting to a Database.
 
 ## Available Scripts
 
